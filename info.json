@@ -1,7 +1,7 @@
 {
   "DomainList": [
     {
-      "Name": "theplus.store1",
+      "Name": "theplus.store",
       "DisableArea": ""
     },
     {
@@ -9,15 +9,15 @@
       "DisableArea": ""
     },
     {
-      "Name": "plus-club.com1",
+      "Name": "plus-club.com",
       "DisableArea": ""
     },
     {
-      "Name": "plusclub.fun1",
+      "Name": "plusclub.fun",
       "DisableArea": ""
     },
     {
-      "Name": "appplus.site1",
+      "Name": "appplus.site",
       "DisableArea": ""
     }
   ],
