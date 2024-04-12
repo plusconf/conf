@@ -1,0 +1,25 @@
+{
+  "DomainList": [
+    {
+      "Name": "theplus.store",
+      "DisableArea": ""
+    },
+    {
+      "Name": "theplus.pro",
+      "DisableArea": ""
+    },
+    {
+      "Name": "plus-club.com",
+      "DisableArea": ""
+    },
+    {
+      "Name": "plusclub.fun",
+      "DisableArea": ""
+    },
+    {
+      "Name": "appplus.site",
+      "DisableArea": ""
+    }
+  ],
+  "IPList": []
+}
