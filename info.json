@@ -19,6 +19,10 @@
     {
       "Name": "appplus.site",
       "DisableArea": ""
+    },
+    {
+      "Name": "plussite.fun",
+      "DisableArea": ""
     }
   ],
   "IPList": []
