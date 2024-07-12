@@ -23,6 +23,22 @@
     {
       "Name": "plussite.fun",
       "DisableArea": ""
+    },
+    {
+      "Name": "plustech.vip",
+      "DisableArea": ""
+    },
+    {
+      "Name": "plustech.ltd",
+      "DisableArea": ""
+    },
+    {
+      "Name": "plusinfo.site",
+      "DisableArea": ""
+    },
+    {
+      "Name": "plusinfo.fun",
+      "DisableArea": ""
     }
   ],
   "IPList": []
