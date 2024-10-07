@@ -39,6 +39,14 @@
     {
       "Name": "plusinfo.fun",
       "DisableArea": ""
+    },
+    {
+      "Name": "plustrade.org",
+      "DisableArea": ""
+    },
+    {
+      "Name": "plustrade.info",
+      "DisableArea": ""
     }
   ],
   "IPList": []
