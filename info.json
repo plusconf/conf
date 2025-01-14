@@ -47,6 +47,18 @@
     {
       "Name": "plustrade.info",
       "DisableArea": ""
+    },
+    {
+      "Name": "plusma.site",
+      "DisableArea": ""
+    },
+    {
+      "Name": "plustrade.vip",
+      "DisableArea": ""
+    },
+    {
+      "Name": "plustrade.club",
+      "DisableArea": ""
     }
   ],
   "IPList": []
